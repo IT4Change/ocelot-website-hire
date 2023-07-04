@@ -426,7 +426,7 @@
 </template>
 <script>
 export default {
-    name: 'About',
+    name: 'Pricing',
 }
 </script>
 <style>
